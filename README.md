@@ -27,7 +27,7 @@ This server utilizes Agenda's x-callback-url scheme to interact with the app. Su
 - `open-note`
 - `create-project`
 
-For more information about Agenda's x-callback-url scheme, visit their [documentation](https://agenda.community/t/x-callback-url-scheme/20489).
+For more information about Agenda's x-callback-url scheme, visit their [documentation](https://agenda.community/t/x-callback-url-support-and-reference/27253).
 
 ## Configuration
 
